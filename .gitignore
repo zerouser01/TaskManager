@@ -65,3 +65,4 @@
 /.cache
 /.bash_history
 /.AzureToolsForIntelliJ
+/source/repos/TestSQL/TestSQL/main.cpp
